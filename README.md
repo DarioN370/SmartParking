@@ -22,7 +22,7 @@ Para compilar e rodar este projeto, você precisará ter o JDK instalado em sua 
 
 Clone o repositório (ou baixe os arquivos):
 
-git clone https://URL-DO-SEU-REPOSITORIO-AQUI/seu-projeto.git
+git clone (https://github.com/DarioN370/SmartParking)
 
 Navegue até o diretório do projeto:
 
