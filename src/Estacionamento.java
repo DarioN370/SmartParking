@@ -31,6 +31,6 @@ public class Estacionamento {
 
         new Veiculo(placa, cor).mostrarInfo(horas, precoHora);
 
-        sc.close(); //aqui ele fecha o Scanner pra liberar o sistema, é só boa pratica, ainda roda sem isso
+        sc.close(); //aqui ele fecha o Scanner pra liberar o sistema, é só boa pratica, ainda roda sem isso.
     }
 }
