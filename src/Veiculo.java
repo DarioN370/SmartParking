@@ -16,7 +16,7 @@ class Veiculo {
         System.out.println(); //pula linha
         // desenho só pra ficar bonitinho
         System.out.println("+--------------------------------+");
-        System.out.println("|      TICKET DE PAGAMENTO       |");
+        System.out.println("|      TICKET DE PAGAMENT0       |");
         System.out.println("+--------------------------------+");
         System.out.println("Placa: " + placa);
         System.out.println("cor: " + cor);
